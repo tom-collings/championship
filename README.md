@@ -4,5 +4,7 @@ the idea of this project is to determine which metropolitan area has the most ch
 
 The first part of this project is to load the seasonal data and correlate it to a metropolitan area.  
 
+Having to do a lot of screen scraping for this.
+
 
 
